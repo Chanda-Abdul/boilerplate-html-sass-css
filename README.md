@@ -1,7 +1,9 @@
 # Project Title
 ![](/assets/screen.png)
 
-This is a ... [...](...). ...
+<!-- This is a ... [...](...). ... -->
+
+[https://javascript.plainenglish.io/how-to-set-up-a-js-dev-environment-5104f3b24ccb](https://javascript.plainenglish.io/how-to-set-up-a-js-dev-environment-5104f3b24ccb)
 
 ## Table of contents
 
